@@ -55,7 +55,7 @@ fn value_in_cents(coin: Coin) -> u8 {
 }
 
 fn describe_state_quarter(coin: Coin) -> Option<String> {
-    //  If it's Coin::Quarter(some_state), the inner value (UsState) is bound to the variable state, and execution continues.
+    //  If it's Coin::Quarter(some_state), the inner value (state) is bound to the variable state, and execution continues.
     let Coin::Quarter(state) = coin else {
         return None;
     };
