@@ -1,0 +1,1 @@
+/mnt/c/Users/Tarkan/Desktop/repos/rust-learning-journey/chapter_14/target/debug/adder: /mnt/c/Users/Tarkan/Desktop/repos/rust-learning-journey/chapter_14/add_one/src/lib.rs /mnt/c/Users/Tarkan/Desktop/repos/rust-learning-journey/chapter_14/adder/src/main.rs
