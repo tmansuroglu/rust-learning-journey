@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_10/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_11/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/minigrep/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_13/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello-worldd/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_2/target" />
@@ -30,6 +31,7 @@
       <excludeFolder url="file://$MODULE_DIR$/chapter_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_11/target" />
       <excludeFolder url="file://$MODULE_DIR$/minigrep/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_13/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
